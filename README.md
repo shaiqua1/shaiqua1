@@ -41,6 +41,19 @@ I’m a dedicated and results-oriented professional transitioning into the **cyb
 
 I believe **learning is more powerful when it's visual and shared**—and I strive to make cybersecurity accessible, one diagram and flashcard at a time.
 
+## 🛠️ Skills & Tools
+
+I'm actively learning and using:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-0e76a8?style=flat&logo=security&logoColor=white" />
+</p>
+
 
 <!--
 **shaiqua1/shaiqua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
